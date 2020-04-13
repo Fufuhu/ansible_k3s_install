@@ -1,0 +1,4 @@
+---
+- hosts: k3s
+  roles:
+    - k3s-server
